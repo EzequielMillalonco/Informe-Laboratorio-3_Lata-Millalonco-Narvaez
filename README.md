@@ -40,6 +40,10 @@ Implementación del circuito en TinkerCAD:
 
 **3.5.3 Simule en el software Multisim, Proteus, o cualquier otro simulador, el circuito de la figura 3.1, obteniendo los valores de los voltajes de nodo.**
 
+![image](https://user-images.githubusercontent.com/93396250/143671959-14603f8f-3856-4256-82ab-611fca872612.png)
+
+
+
 Circuito simulado en Multisim:
 
 
