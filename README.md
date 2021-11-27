@@ -18,7 +18,7 @@ Comprobar experimentalmente el Análisis de Nodos.
 
 ## 2. MARCO TEÓRICO 
 
-
+![Lab 3 marco teórico](https://user-images.githubusercontent.com/93396250/143671607-e3b4e997-6c2f-46b2-8391-bf76599ca368.jpg)
 
 ## 3. EXPLICACIÓN DEL PROCEDIMIENTO
 
@@ -71,3 +71,5 @@ Circuito simulado en Multisim:
 ## 7. BIBLIOGRAFÍA
 
 Alulema Darwin. Guías Primer Parcial https://classroom.google.com/u/0/w/NDEyOTg4NDk2MDQx/t/all?hl=es
+
+McAllister, Willy. “El Método Del Voltaje En Los Nodos (Artículo) | Khan Academy.” Khan Academy, https://es.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-dc-circuit-analysis/a/ee-node-voltage-method. Accessed 27 Nov. 2021.
