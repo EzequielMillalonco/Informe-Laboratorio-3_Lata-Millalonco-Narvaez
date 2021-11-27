@@ -1,4 +1,4 @@
-# Informe-Tarea-4
+# Informe-Laboratorio-3
 
 ## 1. OBJETIVOS
  
