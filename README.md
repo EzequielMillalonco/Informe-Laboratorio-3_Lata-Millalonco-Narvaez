@@ -42,10 +42,13 @@ Implementación del circuito en TinkerCAD:
 
 ![image](https://user-images.githubusercontent.com/93396250/143671959-14603f8f-3856-4256-82ab-611fca872612.png)
 
+Nodos:
 
+![Nodos](https://user-images.githubusercontent.com/93396250/143727359-07c89eb5-b9d6-4544-bd5b-854cf3096a86.jpg)
 
-Circuito simulado en Multisim:
+Valores de los voltajes de nodo:
 
+![image](https://user-images.githubusercontent.com/93396250/143727393-1591af1e-580c-4f57-91bf-df4e7d0b52cc.png)
 
 
 ## 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
