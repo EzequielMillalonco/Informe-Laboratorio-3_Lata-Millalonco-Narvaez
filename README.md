@@ -99,7 +99,7 @@ Valores de los voltajes de nodo:
         
         3.5.4 Compare los valores de la tabla 3.1 y realice sus conclusiones.
         
-        (Insertar tabla)
+![image](https://user-images.githubusercontent.com/93396250/143989368-fb337636-1622-4b11-b85f-2d421b5c6e61.png)
 
 ## 5. VIDEO
 
