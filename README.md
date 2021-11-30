@@ -115,7 +115,13 @@ La tabla 2.1 tiene un error porcentual menor al 5% aceptable, siendo estos en lo
 
 ## 5. VIDEO
 
-        Link del video ¨Informe de laboratorio 3¨ en donde se explica 
+        Link del video ¨Informe de laboratorio 3¨ en donde se realizan los calculos teoricos, simulados y experimentales
+	correpondientes a la actividad del Laboratorio 3
+	
+https://youtu.be/zuBYjey7cSY
+
+[![Presentación Informe 2](https://img.youtube.com/vi/zuBYjey7cSY/0.jpg)](https://www.youtube.com/watch?v=zuBYjey7cSY)
+
 
 ## 6. CONCLUSIONES
 
