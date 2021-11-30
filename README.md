@@ -2,7 +2,7 @@
 
 ## 1. OBJETIVOS
  
-        General: 
+        General: Comprobar experimentalmente el Análisis de Nodos.
 
 Comprobar experimentalmente el Análisis de Nodos.
         
