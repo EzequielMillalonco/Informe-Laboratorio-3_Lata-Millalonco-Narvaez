@@ -9,12 +9,15 @@ Comprobar experimentalmente el Análisis de Nodos.
 
         Específicos: 
  
-  1. 
+        1. Comprender el uso del metodo de nodos, leyes de Kirchhoff y Ohm para la resolucion de circuitos electricos 
+        mediante el uso de herramientas web y del libro guia.
         
-  2.
+        2. Aplicar el metodo de nodos,leyes de Kirchhoff y Ohm para la resolucion del circuito electrico planteado 
+        en este laboratorio virtual.
         
-  3. 
-        
+        3. Construir un circuito eléctrico con el fin de identificar sus partes básicas y realizar cálculos experiméntales
+        (con un multímetro) y teóricos (aplicando las leyes de Kirchhoff y Ohm) para la determinación del voltaje 
+        en cada uno de los nodos. 
 
 ## 2. MARCO TEÓRICO 
 
@@ -40,6 +43,38 @@ https://www.tinkercad.com/things/48bwdekHV3r-exquisite-migelo/editel
 
 
 **3.5.2 Mida cada uno de los voltajes de nodo**
+
+CÁLCULO TEÓRICO
+
+Se plantea la ecuacion en base a la ely de Kirchhoff en el nodo 1
+        
+![1](https://user-images.githubusercontent.com/93834732/143979936-150a74c9-6ef7-41a1-86b0-47178ec1382b.PNG)
+
+Se simplifica la ecuacion
+
+![2](https://user-images.githubusercontent.com/93834732/143980072-131376b5-31f8-44a1-93e1-27af7b963c83.PNG)
+
+![3](https://user-images.githubusercontent.com/93834732/143980085-94a6f2df-d832-452b-a08e-4a762ae5ad4a.PNG)
+
+![4](https://user-images.githubusercontent.com/93834732/143980090-8bebea22-5fa5-40b2-8552-d451495eedab.PNG)
+
+Se plantea la ecuacion en base a la ely de Kirchhoff en el nodo 2
+
+![1_1](https://user-images.githubusercontent.com/93834732/143980147-14f66668-f24a-4080-b79f-f361aefb4122.PNG)
+
+![1_2](https://user-images.githubusercontent.com/93834732/143980167-94a246fd-bd40-44fc-b4e1-1e134597bec4.PNG)
+
+![3_1](https://user-images.githubusercontent.com/93834732/143980199-9e568b62-13ee-48c7-8c89-e814956c30e1.PNG)
+
+![4_1](https://user-images.githubusercontent.com/93834732/143980237-d800097c-c7f3-423c-8a48-88d52d5d71f3.PNG)
+
+Se plantea el sistema de 2 ecuaciones
+
+![5](https://user-images.githubusercontent.com/93834732/143980278-300fcf0c-09f6-4177-a925-13a4fec7d4c8.PNG)
+
+Se resuelve el sistema y se obtiene V1 y V2 que corresponden al voltaje en los nodos respectivamente
+
+![6](https://user-images.githubusercontent.com/93834732/143980517-b7b8e296-7395-41ca-b4a4-f236d3afd207.PNG)
 
 
 
@@ -72,12 +107,17 @@ Valores de los voltajes de nodo:
 
 ## 6. CONCLUSIONES
 
-        1.
+        1. Gracias a la realización del circuito eléctrico se pudo entender de manera teórica la resolucion 
+        de circuitos electricos por nodos mediante el uso de ley de Kirchhoff y Ley de Ohm en el correcto calculo 
+        de magnitudes electricas, en este caso, especificamente el voltaje.
         
-        2.
+        2. El circuito electrico construido mediante herramientas digitales, nos permitio corroborar que los calculos 
+        hechos mediante nodos son correctos, permitiendonos asi tener una mayor disponibilidad de recursos 
+        para la resolucion de posteriores circuitos electricos.
         
-        3.
-        
+        3.La construcción del circuito eléctrico fue realizada de manera exitosa, así pudiendo identificar correctamente
+        sus componentes. Además los cálculos experimentales y teóricos acerca del voltaje resultaron ser similares,
+        con lo que se puede concluir que el laboratorio numero 3 ha sido un rotundo exito.
 
 
 ## 7. BIBLIOGRAFÍA
