@@ -101,6 +101,18 @@ Valores de los voltajes de nodo:
         
 ![image](https://user-images.githubusercontent.com/93396250/143989368-fb337636-1622-4b11-b85f-2d421b5c6e61.png)
 
+**Se aplica la formula del error porcentual para calcular cual fue el error entre las medidas, siendo el error porcentual aceptable del 5%**
+
+![image](https://user-images.githubusercontent.com/93396250/141480859-765210f6-609f-4c8b-9ad1-4f4543fa9817.png)
+
+La tabla 2.1 tiene un error porcentual menor al 5% aceptable, siendo estos en los cálculos y experimentación:
+
+	Nodo 1 tiene un error del 0.007%
+
+	Nodo 2 tiene un error del 0.041%
+
+	Nodo de Referencia no tiene error, ya que lo consideramos como una fuente de voltaje cero.
+
 ## 5. VIDEO
 
         Link del video ¨Informe de laboratorio 3¨ en donde se explica 
