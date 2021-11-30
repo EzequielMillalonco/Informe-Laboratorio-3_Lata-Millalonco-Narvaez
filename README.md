@@ -30,7 +30,12 @@ Material y Equipo requerido:
 
 ![image](https://user-images.githubusercontent.com/93396250/143513488-d52dd531-0158-4a44-94f8-4e47751c18ce.png)
 
-Implementación del circuito en TinkerCAD:
+https://www.tinkercad.com/things/48bwdekHV3r-exquisite-migelo/editel
+
+![NODO 1](https://user-images.githubusercontent.com/93826527/143979840-908dc0bf-afa6-4ed8-80f4-e9282c44a4b0.png)
+
+![NODO 2](https://user-images.githubusercontent.com/93826527/143979859-c33547ba-7664-4183-bbfc-a3624ccf6dcd.png)
+
 
 
 
